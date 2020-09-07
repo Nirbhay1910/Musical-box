@@ -1,0 +1,67 @@
+
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 4.5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+  margin-top: 3%;
+}
+h2{
+  font-size: 2rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 2px 0 #DA0463;
+  margin-top: 2%;
+}
+div{
+  border: 2px solid white;
+  position: relative;
+  margin-bottom: 70px;
+}
+.piano {
+  display: inline-block;
+  height: 500px;
+  width: 400px;
+  margin-top: 100px;
+}
+.drum{
+  display: inline-block;
+  height: 500px;
+  width: 400px;
+  margin-left: 10%;
+  margin-top: 100px;
+}
+button{
+  background-color: #283149;
+  border: 1px solid black;
+  width: 90%;
+  margin-top: 30px;
+}
+a{
+  font-size: 2rem;
+  text-align: center;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  display: block;
+  text-decoration: none;
+  padding: 15px;
+}
+img{
+  padding: 2%;
+  height: 70%;
+  width: 70%;
+}
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+  margin-bottom: 30px;
+  font-size: 1rem;
+}
+.fas{
+  color: red;
+}
